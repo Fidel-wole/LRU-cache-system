@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "lru-cache": "^10.2.0"
+  },
+  "name": "lru-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

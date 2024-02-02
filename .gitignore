@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+build/
+# TypeScript v1 declaration files
+typings/
+
+# TypeScript cache
+*.tsbuildinfo
